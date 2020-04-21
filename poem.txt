@@ -4,3 +4,4 @@ Pink
 Orange
 GREEN
 YELLOW
+Indigo
